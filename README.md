@@ -32,6 +32,9 @@ public class LimitsServiceApplication {
 Langkah 3 :
 Kemudian cari proyek aplication.properties yang berada di Other Source >> src/main/resources >> >> aplication.properties kemudian masukkan code berikut :
 server.port=8010
+
+
+
 Langkah 4 :
 Terakhir untuk output buka chrome/browser lalu ketik local host sesuai port yang dibuat
 Link : hello
